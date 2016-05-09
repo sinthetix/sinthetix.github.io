@@ -1,12 +1,10 @@
 title: code all the things
 description: >
-  **I am Strata**, a super simple
-  responsive site template freebie
-  crafted by [HTML5 UP](http://html5up.net).
-copyright: Untitled
+  description is null.
+copyright: 
 sass:
   sass_dir: assets/sass
-url: http://sinthetx.github.io
+url: https://sinthetix.github.io
 disqus_shortname: 
 facebook_username:
 twitter_username: sinthetix
