@@ -1,6 +1,6 @@
 title: sinthetix computers.
 description: >
-  **Hey, I'm Aly.** I'm a computerer at [Travis CI](https://travis-ci.com). Here is where I brain dump!
+  **Hey! I'm sinthetix**, but you can call me Aly or Thix. I'm a computerer at [Travis CI](https://travis-ci.com) and here is where I brain dump all the things!
 copyright: 2016 sinthetix
 sass:
   sass_dir: assets/sass
@@ -14,7 +14,7 @@ pinterest_username:
 flickr_username:
 github_username:  sinthetix
 feed_icon: rss
-email: 
+email: aly@travis-ci.com
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
