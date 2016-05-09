@@ -1,4 +1,4 @@
-title: Strata by HTML5 UP
+title: code all the things
 description: >
   **I am Strata**, a super simple
   responsive site template freebie
@@ -6,17 +6,17 @@ description: >
 copyright: Untitled
 sass:
   sass_dir: assets/sass
-url: http://localhost:4000
-disqus_shortname: stratajekylldemo
+url: http://sinthetx.github.io
+disqus_shortname: 
 facebook_username:
-twitter_username: "#"
-linkedin_username: "#"
+twitter_username: sinthetix
+linkedin_username: 
 instagram_username:
 pinterest_username:
 flickr_username:
-github_username:  "#"
+github_username:  sinthetix
 feed_icon: rss
-email: "#"
+email: 
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
