@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World"
-date:   2016-05-09 22:35:11 -0400
+date:   2016-05-09
 categories: goals
 ---
 That awkward first blog post. This is my blog where I hope to share my goals, progress, struggles, thoughts, and everything in between in regards to my technical learning journey. Because I'm better at expressing myself through text than verbally, I think this will better help track my progress. I hope that in maintaining a daily blog, I will be both inspired to learn something new and hopefully teach someone else something along the way.
