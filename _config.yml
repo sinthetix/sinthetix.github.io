@@ -1,6 +1,8 @@
 title: sinthetix computers.
 description: >
   **Hey! I'm sinthetix**, but you can call me Aly or Thix. I'm a computerer at [Travis CI](https://travis-ci.com) and here is where I brain dump all the things!
+  
+  **[Talks](http://sinthetix.github.io/talks.html)**
 copyright: 2016 sinthetix
 sass:
   sass_dir: assets/sass
