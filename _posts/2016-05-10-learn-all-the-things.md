@@ -59,6 +59,7 @@ The world if APIs intimidates and excites me. I've done some really minor API in
 
 ### Go
 Having a background in linguistics, a strong love for languages, and an interest in all things operations/infrastructure makes Go a safe bet (plus we use Go at Travis as well). I'm actually pretty impressed with how many free learning resources there are for Go online:
+
 * [A Tour of Go](https://tour.golang.org)
 * [Building Web Apps With Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details)
 * [Go Bootcamp](http://www.golangbootcamp.com/)
