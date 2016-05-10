@@ -1,9 +1,9 @@
 title: sinthetix computers.
 description: >
-  **Hey! I'm sinthetix**, but you can call me Aly or Thix. I'm a computerer at [Travis CI](https://travis-ci.com) and here is where I brain dump all the things!
-  
-    **[About](http://sinthetix.github.io/about.html)** <
-    **[Talks](http://sinthetix.github.io/talks.html)** <
+  "**Hey! I'm sinthetix**, but you can call me Aly or Thix. I'm a computerer at [Travis CI](https://travis-ci.com) and here is where I brain dump all the things!
+    \n\n
+    **[About](http://sinthetix.github.io/about.html)**\n
+    **[Talks](http://sinthetix.github.io/talks.html)**"
 copyright: 2016 Aly Fulton
 sass:
   sass_dir: assets/sass
