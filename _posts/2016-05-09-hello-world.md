@@ -11,3 +11,5 @@ That awkward first blog post. This is my blog where I hope to share my goals, pr
 I made this blog using [Jekyll](https://jekyllrb.com/) but I [forked a Jekyll theme's repositoryy](https://github.com/DavidForster/strata-jekyll) (they told me to, I swear) to set it up. I'm a big fan of when things look pretty (and minimalist) and this theme is pretty (and minimalist). 😍
 
 In setting up this blog, I decided to have a brief dive into [YAML syntax](https://en.wikipedia.org/wiki/YAML). I'm actually not sure I learned anything and I will have to revisit this later. Send help when I do! 🆘
+
+![Racoon on scooter](http://i.giphy.com/z0ioCfDnxx3TW.gif)
