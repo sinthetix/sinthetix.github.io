@@ -1,6 +1,6 @@
 title: sinthetix computers.
 description: |
-  **Hey! I'm sinthetix**, but you can call me Aly or Thix. I'm a computerer at [Travis CI](https://travis-ci.com) and here is where I brain dump all the things. You can also view my **[talks](http://sinthetix.github.io/talks.html)**.
+  **Hey! I'm sinthetix**, but you can call me Aly or Thix. I'm a computerer for hire and here is where I brain dump all the things. You can also view my **[full bio](http://sinthetix.github.io/bio.html)** or my **[talks](http://sinthetix.github.io/talks.html)**.
 copyright: 2016 Aly Fulton
 sass:
   sass_dir: assets/sass
@@ -14,7 +14,7 @@ pinterest_username:
 flickr_username:
 github_username:  sinthetix
 feed_icon: rss
-email: aly@travis-ci.com
+email: aly@obeythelime.com
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
